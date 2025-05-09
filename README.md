@@ -23,14 +23,14 @@ Requirements
 
 Install dependencies:
 
-pip install google-api-python-client
+    pip install google-api-python-client
 
-If you're using a restricted Python environment (Debian/Ubuntu), run:
+    If you're using a restricted Python environment (Debian/Ubuntu), run:
 
-pip install --user --break-system-packages google-api-python-client
+    pip install --user --break-system-packages google-api-python-client
 
 Enter a valid YouTube channel URL when prompted:
 
-  https://www.youtube.com/@LinusTechTips
+      https://www.youtube.com/@LinusTechTips
   
-  https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw
+      https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw
