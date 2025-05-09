@@ -25,7 +25,7 @@ Install dependencies:
 
     pip install google-api-python-client
 
-    If you're using a restricted Python environment (Debian/Ubuntu), run:
+If you're using a restricted Python environment (Debian/Ubuntu), run:
 
     pip install --user --break-system-packages google-api-python-client
 
