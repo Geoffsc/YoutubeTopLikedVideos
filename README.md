@@ -19,7 +19,7 @@ Requirements
 
     Python 3.7+
 
-    A YouTube Data API key from <a href="https://console.cloud.google.com/">Google Cloud Console</a>
+    A YouTube Data API key from Google Cloud Console: https://console.cloud.google.com
 
 Install dependencies:
 
